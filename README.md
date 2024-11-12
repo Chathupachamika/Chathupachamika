@@ -1,12 +1,22 @@
+<h1 align="center">
+  <img src="https://your-cover-image-url.com" alt="Cover Image" width="100%" height="300px">
+</h1>
+
 <h1 align="center">Hi 👋, I'm @Chathupachamika</h1>
-<h3 align="center">Aspiring Developer | Passionate Learner</h3>
+<h3 align="center">
+  <span style="display:inline-block; overflow: hidden; white-space: nowrap; animation: slide 8s linear infinite;">
+    Full Stack Developer-Trainee
+  </span>
+</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=chathupachamika&label=Profile%20views&color=0e75b6&style=flat" alt="chathupachamika" /> 
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathupachamika&theme=dracula&margin-w=15" alt="chathupachamika" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chathupachamika&theme=dracula&margin-w=15" alt="chathupachamika" />
+  </a> 
 </p>
 
 - 🌱 I’m currently learning at **ICET Institute.**
@@ -26,7 +36,8 @@
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/java.png" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="postman" width="40" height="40"/> </a> 
 </p>
@@ -38,3 +49,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathupachamika&show_icons=true&locale=en&theme=radical" alt="chathupachamika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathupachamika&theme=radical" alt="chathupachamika" /></p>
+
+<style>
+@keyframes slide {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
