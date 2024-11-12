@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm @Chathupachamika</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer-Trainee" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Full+Stack+Developer-Trainee" alt="Typing SVG">
 </h3>
 
 <p align="left"> 
