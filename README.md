@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://your-cover-image-url.com" alt="Cover Image" width="100%" height="300px">
+  <img src="baner.png" width="100%" height="300px">
 </h1>
 
 <h1 align="center">Hi 👋, I'm @Chathupachamika</h1>
