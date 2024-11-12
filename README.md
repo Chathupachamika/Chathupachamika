@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/Chathupachamika/Chathupachamika/blob/main/Banner.png?raw=true" alt="Cover Image" width="100%" height="300px">
-</h1>
-
 
 <h1 align="center">Hi 👋, I'm @Chathupachamika</h1>
 <h3 align="center">
