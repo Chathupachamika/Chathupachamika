@@ -45,9 +45,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathupachamika&theme=radical" alt="chathupachamika" /></p>
 
-<style>
-@keyframes slide {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
-</style>
