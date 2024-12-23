@@ -79,5 +79,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathupachamika&theme=radical" alt="chathupachamika" /></p>
 
 ---
-
 ![Snake animation](https://github.com/chathupachamika/chathupachamika/blob/output/snake.svg)
