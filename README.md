@@ -16,15 +16,17 @@
   </a> 
 </p>
 
-<div align="left">
-  <p align="left">
-    - ⚡ I’m currently learning MERN.  
-    - 🌱 I have just finished studying at **ICET Institute** and am looking forward to university.  
-    - 👨‍💻 Check out my projects on [GitHub](https://github.com/Chathupachamika).  
-    - 💬 Ask me about **Java, JavaScript, and Spring Boot**.  
-    - 📫 Reach me at **Chathupachamika765@gmail.com**
-  </p>
-  <img align="right" src="https://example.com/your-animated-image.gif" alt="Professional Animated Image" width="250" height="250" style="border-radius: 50%;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    - ⚡ I’m currently learning MERN. <br>
+    - 🌱 I have just finished studying at **ICET Institute** and am looking forward to university. <br>
+    - 👨‍💻 Check out my projects on [GitHub](https://github.com/Chathupachamika). <br>
+    - 💬 Ask me about **Java, JavaScript, and Spring Boot**. <br>
+    - 📫 Reach me at **Chathupachamika765@gmail.com** <br>
+  </div>
+  <div>
+    <img src="https://example.com/animated-professional-image.gif" alt="Professional Animation" width="300">
+  </div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
