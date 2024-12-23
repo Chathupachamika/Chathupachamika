@@ -40,7 +40,7 @@
   <a href="https://twitter.com/chathupachamika" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
   </a>
-  <a href="www.linkedin.com/in/chathupa-chamika-" target="_blank">
+  <a href="https://www.linkedin.com/in/chathupa-chamika-/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://web.facebook.com/chathupa.chamika.7" target="_blank">
