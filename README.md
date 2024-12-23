@@ -1,16 +1,7 @@
-<div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
-  <!-- Background Video -->
-  <video autoplay loop muted playsinline style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;">
-    <source src="background.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-  <!-- Content over the background -->
-  <div style="position: relative; z-index: 1; text-align: center; color: white; padding: 50px;">
-    <h1>Welcome to My Page</h1>
-    <p>This is a video background example.</p>
-  </div>
+<div align="center">
+ <iframe src="https://giphy.com/embed/U3qYN8S0j3bpK" width="340" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stars-U3qYN8S0j3bpK">via GIPHY</a></p>
 </div>
+
 
 <h1 align="center">
   <img src="banner.png" alt="Banner" width="100%" />
