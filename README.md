@@ -1,7 +1,39 @@
 <h1 align="center">
   <img src="banner.png" alt="Banner" width="100%" />
   <br><br>
-  Hi 👋, I'm <span style="color:blue;">@Chathupachamika</span>
+  <h1 align="center">
+  Hi <span class="wave">👋</span>, I'm <span style="color:blue;">@Chathupachamika</span>
+</h1>
+
+<style>
+  .wave {
+    display: inline-block;
+    animation: wave-animation 1.5s infinite;
+    transform-origin: 70% 70%; /* Adjusts the rotation point */
+  }
+
+  @keyframes wave-animation {
+    0% {
+      transform: rotate(0deg);
+    }
+    15% {
+      transform: rotate(15deg);
+    }
+    30% {
+      transform: rotate(-15deg);
+    }
+    45% {
+      transform: rotate(15deg);
+    }
+    60% {
+      transform: rotate(-15deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+</style>
+
 </h1>
 
 
