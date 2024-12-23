@@ -16,6 +16,7 @@
   </a> 
 </p>
 
+- ⚡ I’m currently learning MERN.
 - 🌱 I have just finished studying at **ICET Institute** and am looking forward to university.
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/Chathupachamika).
 - 💬 Ask me about **Java, JavaScript, and Spring Boot**.
@@ -71,10 +72,12 @@
 
 
 ---
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathupachamika&show_icons=true&locale=en&layout=compact&theme=radical" alt="chathupachamika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathupachamika&show_icons=true&locale=en&theme=radical" alt="chathupachamika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathupachamika&theme=radical" alt="chathupachamika" /></p>
 
+---
+
+![Snake animation](https://github.com/chathupachamika/chathupachamika/blob/output/snake.svg)
