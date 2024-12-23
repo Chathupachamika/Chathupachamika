@@ -1,6 +1,7 @@
-<div align="center">
- <iframe src="https://giphy.com/embed/U3qYN8S0j3bpK" width="340" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stars-U3qYN8S0j3bpK">via GIPHY</a></p>
-</div>
+<video autoplay loop muted playsinline style="width: 100%;">
+  <source src="background.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 <h1 align="center">
