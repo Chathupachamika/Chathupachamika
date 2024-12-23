@@ -13,11 +13,19 @@
 ---
 
 ### 🛠 About Me:
-- ⚡ I’m currently learning **MERN**.
-- 🌱 Recently graduated from **ICET Institute**, looking forward to university.
-- 👨‍💻 Explore my projects on [GitHub](https://github.com/Chathupachamika).
-- 💬 Ask me about **Java, JavaScript, and Spring Boot**.
-- 📫 Reach me at **Chathupachamika765@gmail.com**.
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    - ⚡ I’m currently learning **MERN**.<br>
+    - 🌱 Recently graduated from **ICET Institute**, looking forward to university.<br>
+    - 👨‍💻 Explore my projects on [GitHub](https://github.com/Chathupachamika).<br>
+    - 💬 Ask me about **Java, JavaScript, and Spring Boot**.<br>
+    - 📫 Reach me at **Chathupachamika765@gmail.com**.<br>
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation">
+  </div>
+</div>
+
 
 ---
 
@@ -77,7 +85,3 @@
 
 ---
 
-<h3 align="center">Animated Inspiration:</h3>
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation">
-</div>
