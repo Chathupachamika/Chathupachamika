@@ -15,12 +15,59 @@
     <img src="https://github-profile-trophy.vercel.app/?username=chathupachamika&theme=dracula&margin-w=15&no-frame=true" alt="chathupachamika" />
   </a> 
 </p>
+<div style="display: flex; align-items: center; justify-content: space-between; margin: 20px 0;">
+  <div style="flex: 1;">
+    <h3>
+      <div style="font-size: 24px; font-weight: 500;">
+        Full Stack Developer 👨‍💻<br>
+        Passionate about coding<br>
+        Always learning
+      </div>
+    </h3>
 
-- ⚡ I’m currently learning MERN.
-- 🌱 I have just finished studying at **ICET Institute** and am looking forward to university.
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/Chathupachamika).
-- 💬 Ask me about **Java, JavaScript, and Spring Boot**.
-- 📫 Reach me at **Chathupachamika765@gmail.com**
+    - ⚡ I'm currently learning MERN
+    - 🌱 Recently completed studies at ICET Institute
+    - 👨‍💻 Check out my projects on GitHub
+    - 💬 Ask me about Java, JavaScript, and Spring Boot
+    - 📫 Contact: Chathupachamika765@gmail.com
+  </div>
+
+  <svg width="400" height="300" viewBox="0 0 400 300">
+    <style>
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+      }
+      @keyframes typing {
+        0% { width: 0; }
+        100% { width: 100%; }
+      }
+      .floating { animation: float 3s ease-in-out infinite; }
+      .typing { animation: typing 2s steps(20) infinite; }
+    </style>
+    
+    
+    <rect width="400" height="300" fill="#1a1b27" rx="10"/>
+    
+    
+    <g class="floating">
+      <circle cx="200" cy="150" r="50" fill="#4a90e2"/>
+      <rect x="170" y="130" width="60" height="40" fill="#2d3748" rx="5"/>
+      <circle cx="200" cy="120" r="25" fill="#ffd700"/>
+      <path d="M185 115 h30" stroke="#2d3748" stroke-width="2"/>
+      <circle cx="190" cy="110" r="3" fill="#2d3748"/>
+      <circle cx="210" cy="110" r="3" fill="#2d3748"/>
+    </g>
+    
+  
+    <g class="typing" fill="#61dafb">
+      <text x="140" y="220" font-family="monospace" font-size="14">&lt;/&gt;</text>
+      <text x="180" y="220" font-family="monospace" font-size="14">{}</text>
+      <text x="220" y="220" font-family="monospace" font-size="14">[]</text>
+    </g>
+  </svg>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
