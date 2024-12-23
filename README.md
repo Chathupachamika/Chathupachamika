@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="banner.png" alt="Banner" width="100%" /><br>
+  <img src="banner.png" alt="Banner" width="100%" />
   <br>
   Hi 👋, I'm <span style="color:blue;">@Chathupachamika</span>
 </h1>
