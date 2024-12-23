@@ -16,10 +16,10 @@
   <div style="flex: 1;">
     <ul style="font-size: 18px; line-height: 1.8; list-style: none; padding: 0;">
       <li>⚡ I’m currently learning <strong>MERN</strong>.</li>
-      <li>🌱 I have just finished studying at <strong>ICET Institute</strong> and am looking forward to university.</li>
+      <li>🌱 I have just finished studying at <strong>**ICET** Institute</strong> and am looking forward to university.</li>
       <li>👨‍💻 Check out my projects on <a href="https://github.com/Chathupachamika" target="_blank" style="color: #0366d6; text-decoration: none;">GitHub</a>.</li>
-      <li>💬 Ask me about <strong>Java, JavaScript, Angular and Spring Boot</strong>.</li>
-      <li>📫 Reach me at <strong>Chathupachamika765@gmail.com</strong>.</li>
+      <li>💬 Ask me about **<strong>Java, JavaScript, Angular and Spring Boot</strong>**.</li>
+      <li>📫 Reach me at **<strong>Chathupachamika765@gmail.com</strong>**.</li>
     </ul>
   </div>
   <div style="flex: 1;">
@@ -37,10 +37,10 @@
   <a href="https://twitter.com/chathupachamika" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/chathupachamika" target="_blank">
+  <a href="www.linkedin.com/in/chathupa-chamika-" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/chathupachamika" target="_blank">
+  <a href="https://web.facebook.com/chathupa.chamika.7" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" />
   </a>
   <a href="https://instagram.com/chathupachamika" target="_blank">
