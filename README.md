@@ -87,7 +87,6 @@
 </div>
 
 ---
-<h3 align="center">Good Bye 👋</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="500" alt="Goodbye Girl">
