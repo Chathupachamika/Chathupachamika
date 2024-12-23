@@ -14,17 +14,17 @@
 ### 🛠 About Me:
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <div style="flex: 1;">
-    <ul>
-      <li>⚡ I’m currently learning **MERN**.</li>
-      <li>🌱 Recently graduated from **ICET Institute**, looking forward to university.</li>
-      <li>👨‍💻 Explore my projects on [GitHub](https://github.com/Chathupachamika).</li>
-      <li>💬 Ask me about **Java, JavaScript, and Spring Boot**.</li>
-      <li>📫 Reach me at **Chathupachamika765@gmail.com**.</li>
+    <ul style="font-size: 18px; line-height: 1.8; list-style: none; padding: 0;">
+      <li>⚡ I’m currently learning <strong>MERN</strong>.</li>
+      <li>🌱 I have just finished studying at <strong>ICET Institute</strong> and am looking forward to university.</li>
+      <li>👨‍💻 Check out my projects on <a href="https://github.com/Chathupachamika" target="_blank" style="color: #0366d6; text-decoration: none;">GitHub</a>.</li>
+      <li>💬 Ask me about <strong>Java, JavaScript, Angular and Spring Boot</strong>.</li>
+      <li>📫 Reach me at <strong>Chathupachamika765@gmail.com</strong>.</li>
     </ul>
   </div>
   <div style="flex: 1;">
     <div align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation">
     </div>
   </div>
 </div>
