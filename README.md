@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/50/000000/postman-api.png" alt="postman" width="40" height="40"/>
+    <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="angular" width="40" height="40"/>
