@@ -11,10 +11,10 @@
 </div>
 
 ---
-
 ### 🛠 About Me:
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin-top: 20px;">
+ 
   <div style="flex: 1; min-width: 300px;">
     <ul style="font-size: 18px; line-height: 1.8; list-style: none; padding: 0;">
       <li>⚡ I’m currently learning <strong>MERN</strong>.</li>
@@ -26,10 +26,9 @@
   </div>
   
   <div style="flex: 1; min-width: 400px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" style="margin-left:200px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
   </div>
 </div>
-
 
 ---
 
