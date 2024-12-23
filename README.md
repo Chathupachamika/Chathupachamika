@@ -2,10 +2,6 @@
   Hi 👋, I'm @Chathupachamika
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" alt="Animated Image" width="300"/>
-</p>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+👨‍💻;Passionate+about+coding;Always+learning" alt="Typing SVG">
 </h3>
@@ -20,11 +16,16 @@
   </a> 
 </p>
 
-- ⚡ I’m currently learning MERN.
-- 🌱 I have just finished studying at **ICET Institute** and am looking forward to university.
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/Chathupachamika).
-- 💬 Ask me about **Java, JavaScript, and Spring Boot**.
-- 📫 Reach me at **Chathupachamika765@gmail.com**
+<div align="left">
+  <p align="left">
+    - ⚡ I’m currently learning MERN.  
+    - 🌱 I have just finished studying at **ICET Institute** and am looking forward to university.  
+    - 👨‍💻 Check out my projects on [GitHub](https://github.com/Chathupachamika).  
+    - 💬 Ask me about **Java, JavaScript, and Spring Boot**.  
+    - 📫 Reach me at **Chathupachamika765@gmail.com**
+  </p>
+  <img align="right" src="https://example.com/your-animated-image.gif" alt="Professional Animated Image" width="250" height="250" style="border-radius: 50%;">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
