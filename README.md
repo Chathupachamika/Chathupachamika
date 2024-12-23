@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%" /><br>
   Hi 👋, I'm <span style="color:blue;">@Chathupachamika</span>
 </h1>
 
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+👨‍💻;Passionate+about+Coding+🚀;Always+Learning+🌱" alt="Typing SVG">
 </h3>
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=chathupachamika&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
 </div>
 
