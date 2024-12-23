@@ -88,8 +88,10 @@
 
 ---
 <h3 align="center">Good Bye 👋</h3>
-<div align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="500" alt="Goodbye Girl Animation" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="500" alt="Goodbye Girl">
 </div>
+
 
 
