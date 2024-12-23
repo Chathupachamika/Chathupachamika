@@ -70,8 +70,17 @@
   </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chathupache"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chathupache" /></a><a href="https://ko-fi.com/chathupache"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chathupache" /></a></p><br><br>
+<h3 align="left">Support My Work:</h3>
+<div align="left">
+  <a href="https://www.buymeacoffee.com/chathupache" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+  </a>
+  <a href="https://ko-fi.com/chathupache" target="_blank" style="margin-left: 10px;">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
+  </a>
+</div>
+<br>
+<p style="font-size: 16px; font-weight: bold;">Your support helps me create more awesome projects! 💖</p>
 
 ---
 
