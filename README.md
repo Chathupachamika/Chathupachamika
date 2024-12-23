@@ -2,6 +2,10 @@
   Hi 👋, I'm @Chathupachamika
 </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" alt="Animated Image" width="300"/>
+</p>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+👨‍💻;Passionate+about+coding;Always+learning" alt="Typing SVG">
 </h3>
@@ -89,4 +93,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathupachamika&show_icons=true&locale=en&theme=radical" alt="chathupachamika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathupachamika&theme=radical" alt="chathupachamika" /></p>
-
