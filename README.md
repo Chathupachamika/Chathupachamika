@@ -35,7 +35,4 @@
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/50/000000/typescript.png" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/50/000000/sql.png" alt="sql" width="40" height="40"/>
-  </a>
 </p>
