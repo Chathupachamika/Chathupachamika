@@ -16,7 +16,7 @@
   <div style="flex: 1;">
     <ul style="font-size: 18px; line-height: 1.8; list-style: none; padding: 0;">
       <li>⚡ I’m currently learning <strong>MERN</strong>.</li>
-      <li>🌱 I have just finished studying at <strong>**ICET** Institute</strong> and am looking forward to university.</li>
+      <li>🌱 I have just finished studying at <strong>**ICET Institute**</strong> and am looking forward to university.</li>
       <li>👨‍💻 Check out my projects on <a href="https://github.com/Chathupachamika" target="_blank" style="color: #0366d6; text-decoration: none;">GitHub</a>.</li>
       <li>💬 Ask me about **<strong>Java, JavaScript, Angular and Spring Boot</strong>**.</li>
       <li>📫 Reach me at **<strong>Chathupachamika765@gmail.com</strong>**.</li>
@@ -87,4 +87,9 @@
 </div>
 
 ---
+<h3 align="center">Good Bye 👋</h3>
+
+<div align="center">
+  <img src="giphy.gif" width="500" alt="Good Bye Girl" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+</div>
 
