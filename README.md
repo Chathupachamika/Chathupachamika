@@ -1,5 +1,11 @@
+<video autoplay loop muted playsinline style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;">
+    <source src="background.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 <h1 align="center">
-  Hi , I'm <span style="color:blue;">@Chathupachamika <img src="https://media.giphy.com/media/3o6ZsYamjrv9oUBtDi/giphy.gif" width="50" alt="say hi"></span>
+  <img src="banner.png" alt="Banner" width="100%" />
+  <br>
+  Hi , I'm <span style="color:blue;">@Chathupachamika <img src="https://media.giphy.com/media/3o6ZsYamjrv9oUBtDi/giphy.gif" width="100" alt="say hi"></span>
 </h1>
 
 <h3 align="center"><br>
