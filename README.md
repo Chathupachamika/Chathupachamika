@@ -45,6 +45,9 @@
   <a href="https://web.facebook.com/chathupa.chamika.7" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" />
   </a>
+   <a href="https://wa.me/+94754278741" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" />
+  </a>
   <a href="https://instagram.com/chathupachamika" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
   </a>
