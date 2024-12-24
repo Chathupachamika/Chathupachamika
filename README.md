@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner" width="100%" />
   <br>
  Hi, I'm <span style="color:blue;">@Chathupachamika 
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="Cartoon working on a laptop">
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="100" alt="Cartoon working on a laptop">
 </span>
 </h1>
 
