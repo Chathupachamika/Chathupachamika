@@ -39,16 +39,16 @@
 <h3 align="center">Connect with Me:</h3>
 <div align="center">
   <a href="https://twitter.com/chathupachamika" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
+    <img src="https://media.giphy.com/media/jtUPNc2nlJNbWzqCI8/giphy.gif" alt="Twitter" width="48" />
   </a>
   <a href="https://www.linkedin.com/in/chathupa-chamika-/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" alt="LinkedIn" width="48" />
   </a>
   <a href="https://web.facebook.com/chathupa.chamika.7" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" />
+    <img src="https://media.giphy.com/media/14aUO0Mf7dWDXW/giphy.gif" alt="Facebook" width="48" />
   </a>
   <a href="https://instagram.com/chathupachamika" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Instagram" width="48" />
   </a>
 </div>
 
