@@ -1,7 +1,9 @@
 <h1 align="center">
   <img src="banner.png" alt="Banner" width="100%" />
   <br>
-  Hi , I'm <span style="color:blue;">@Chathupachamika <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="100" alt="wave"></span>
+ Hi, I'm <span style="color:blue;">@Chathupachamika 
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="Cartoon working on a laptop">
+</span>
 </h1>
 
 <h3 align="center"><br>
