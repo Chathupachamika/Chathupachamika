@@ -36,20 +36,20 @@
 
 ---
 
-<h3 align="center">Connect with Me:</h3>
-<div align="center">
-  <a href="https://twitter.com/chathupachamika" target="_blank">
-    <img src="https://media.giphy.com/media/jtUPNc2nlJNbWzqCI8/giphy.gif" alt="Twitter" width="48" />
-  </a>
-  <a href="https://www.linkedin.com/in/chathupa-chamika-/" target="_blank">
-    <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" alt="LinkedIn" width="48" />
-  </a>
-  <a href="https://web.facebook.com/chathupa.chamika.7" target="_blank">
-    <img src="https://media.giphy.com/media/14aUO0Mf7dWDXW/giphy.gif" alt="Facebook" width="48" />
-  </a>
-  <a href="https://instagram.com/chathupachamika" target="_blank">
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Instagram" width="48" />
-  </a>
+<h3>Connect with me</h3>
+<div>
+    <a href="https://linkedin.com" title="LinkedIn">
+        <img src="/api/placeholder/48/48" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com" title="Instagram">
+        <img src="/api/placeholder/48/48" alt="Instagram"/>
+    </a>
+    <a href="https://facebook.com" title="Facebook">
+        <img src="/api/placeholder/48/48" alt="Facebook"/>
+    </a>
+    <a href="https://twitter.com" title="Twitter">
+        <img src="/api/placeholder/48/48" alt="Twitter"/>
+    </a>
 </div>
 
 
