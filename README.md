@@ -25,8 +25,8 @@
     </ul>
   </div>
   <div style="flex: 1;">
-    <div align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation">
+    <div align="right">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
     </div>
   </div>
 </div>
