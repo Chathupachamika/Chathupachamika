@@ -92,7 +92,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathupachamika&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Chathupachamika&theme=merko&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathupachamika&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathupachamika&theme=synthwave&hide_border=false" />
 </div>
 
 
