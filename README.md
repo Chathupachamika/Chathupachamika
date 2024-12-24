@@ -97,7 +97,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e4768ikb3p9h7tybnx5qe6dbf5mo7rbbzdthrtoxeo3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" alt="Goodbye Animation">
+  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e4768ikb3p9h7tybnx5qe6dbf5mo7rbbzdthrtoxeo3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Goodbye Animation">
 </div>
 
 ### 🔝 Top Contributed Repo
