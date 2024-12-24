@@ -92,12 +92,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathupachamika&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathupachamika&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chathupachamika&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathupachamika&theme=radical" alt="GitHub Streak" />
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
