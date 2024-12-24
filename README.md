@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner" width="100%" />
   <br>
   Hi 👋 , I'm <span style="color:blue;">@Chathupachamika</span> 
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="140" alt="Laptop User">
+  <img src="https://giphy.com/gifs/hello-Cmr1OMJ2FN0B2.gif" width="140" alt="Laptop User">
 </h1>
 
 
@@ -77,7 +77,7 @@
   <a href="https://www.buymeacoffee.com/chathupache" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
-  <a href="https://ko-fi.com/chathupache" target="_blank" style="margin-left: 10px;">
+  <a href="https://ko-fi.com/chathupachamika" target="_blank" style="margin-left: 10px;">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
   </a>
 </div>
