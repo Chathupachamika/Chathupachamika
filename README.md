@@ -93,24 +93,18 @@
 </div>
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- Left Side: Quote and Contributed Repo -->
-  <div style="flex: 1; padding-right: 20px;">
-    ### ✍️ Random Dev Quote
-    <div align="left">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-    </div>
+### ✍️ Random Dev Quote
+<div align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</div>
 
-    ### 🔝 Top Contributed Repo
-    <div align="left">
-      <img src="https://github-contributor-stats.vercel.app/api?username=Chathupachamika&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
-    </div>
-  </div>
+### 🔝 Top Contributed Repo
+<div align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Chathupachamika&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
+</div>
 
-  <!-- Right Side: GIF -->
-  <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e4768ikb3p9h7tybnx5qe6dbf5mo7rbbzdthrtoxeo3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" alt="Goodbye Animation">
-  </div>
+<div align="right-top">
+  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e4768ikb3p9h7tybnx5qe6dbf5mo7rbbzdthrtoxeo3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Goodbye Animation">
 </div>
 
 
