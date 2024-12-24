@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="banner.png" alt="Banner" width="100%" />
   <br>
- Hi, I'm <span style="color:blue;">@Chathupachamika 
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="100" alt="Cartoon working on a laptop">
-</span>
+  Hi, I'm <span style="color:blue;">@Chathupachamika</span> 
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="100" alt="Laptop User">
 </h1>
+
 
 <h3 align="center"><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Freelancer+👨‍💻;Passionate+about+Coding+🚀;Always+Learning+🌱" alt="Typing SVG">
