@@ -56,7 +56,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chathupachamika&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Chathupachamika&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
