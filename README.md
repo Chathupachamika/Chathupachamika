@@ -17,7 +17,7 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <div style="flex: 1;">
     <ul style="font-size: 18px; line-height: 1.8; list-style: none; padding: 0;">
-      <li>⚡ I’m currently learning <strong>MERN</strong>.</li>
+      <li>⚡ I’m currently learning <strong>MERN Stack</strong>.</li>
       <li>🌱 I have just finished studying at <strong>**ICET Institute**</strong> and am looking forward to university.</li>
       <li>👨‍💻 See my other details in my <a href="http://portfolio20041119.s3-website.eu-north-1.amazonaws.com" target="_blank" style="color: #0366d6; text-decoration: none;">Portfolio</a>.</li>
       <li>💬 Ask me about **<strong>Java, JavaScript, Angular and Spring Boot</strong>**.</li>
