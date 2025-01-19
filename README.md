@@ -61,17 +61,58 @@
 ---
 
 ## 🛠️ Languages and Tools
+
 <div align="center">
-  <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/50/000000/spring-logo.png" alt="Spring Boot" />
+
+### **Languages**
+<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="Java" />
+<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" />
+<img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" />
+<img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" />
+<img src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart" />
+<img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" />
+
+### **Frameworks**
+<div align="center">
+  <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" />
-  <img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/50/000000/express.png" alt="Express" />
+  <img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter" />
+  <img src="https://img.icons8.com/nolan/64/electron.png" alt="Electron" />
+  <img src="https://img.icons8.com/color/50/000000/laravel.png" alt="Laravel" />
   <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/50/000000/figma.png" alt="Figma" />
-  <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" />
+  <img src="https://img.icons8.com/fluency/50/000000/nextjs.png" alt="Next.js" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-nestjs-a-progressive-nodejs-framework-for-building-efficient-and-scalable-server-side-applications-logo-shadow-tal-revivo.png" alt="Nest.js" />
 </div>
+
+### **Databases**
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/50/000000/postgresql.png" alt="PostgreSQL" />
+</div>
+
+### **Cloud Computing**
+<img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" />
+
+### **Version Control**
+<img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" />
+<img src="https://img.icons8.com/color/50/000000/github--v1.png" alt="GitHub" />
+
+### **Developing Tools**
+<img src="https://img.icons8.com/color/50/000000/intellij-idea.png" alt="IntelliJ IDEA" />
+<img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png" alt="Visual Studio Code" />
+<img src="https://img.icons8.com/fluency/50/000000/android-studio--v3.png" alt="Android Studio" />
+<img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" />
+
+### **Designing Tools**
+<img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png" alt="Photoshop" />
+<img src="https://img.icons8.com/color/50/000000/adobe-after-effects--v1.png" alt="After Effects" />
+<img src="https://img.icons8.com/color/50/000000/adobe-premiere-pro--v1.png" alt="Premiere Pro" />
+
+</div>
+
 
 ---
 
