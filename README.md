@@ -10,7 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Freelancer+👨‍💻;Passionate+about+Coding+🚀;Always+Learning+🌱" alt="Typing SVG">
 </h3>
 
- [![](https://visitcount.itsvg.in/api?id=Chathupachamika&icon=1&color=0)](https://visitcount.itsvg.in)
+ <img src="https://komarev.com/ghpvc/?username=Chathupachamika&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<div align="center">
 
 ---
 ### 🛠 About Me:
