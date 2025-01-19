@@ -7,29 +7,32 @@
 
 
 <h3 align="center"><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Freelancer+👨‍💻;Passionate+about+Coding+🚀;Always+Learning+🌱" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Freelancer+👨‍💻;Passionate+about+Coding+🚀;Always+Learning+🌱" alt="Typing SVG">
 </h3>
 
- <img src="https://komarev.com/ghpvc/?username=Chathupachamika&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chathupachamika&label=Profile%20Views&color=ff1493&style=for-the-badge" alt="Profile Views" />
 </p>
-<div align="center">
 
----
-### 🛠 About Me:
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <div style="flex: 1;">
+<div align="center">
+  <hr style="border: 2px solid #36BCF7; width: 50%;">
+  <h2 style="color: #FFA500; font-size: 28px;">🛠 About Me:</h2>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 20px;">
+  <div style="flex: 1; padding: 10px;">
     <ul style="font-size: 18px; line-height: 1.8; list-style: none; padding: 0;">
-      <li>⚡ I’m currently learning <strong>MERN Stack</strong>.</li>
-      <li>🌱 I have just finished studying at <strong>**ICET Institute**</strong> and am looking forward to university.</li>
-      <li>👨‍💻 See my other details in my <a href="http://portfolio20041119.s3-website.eu-north-1.amazonaws.com" target="_blank" style="color: #0366d6; text-decoration: none;">Portfolio</a>.</li>
-      <li>💬 Ask me about **<strong>Java, JavaScript, Angular and Spring Boot</strong>**.</li>
-      <li>📫 Reach me at **<strong>Chathupachamika765@gmail.com</strong>**.</li>
+      <li>⚡ <span style="color: #FF4500;">I’m currently learning</span> <strong style="color: #1E90FF;">MERN Stack</strong>.</li>
+      <li>🌱 <span style="color: #2E8B57;">I have just finished studying at</span> <strong style="color: #FF8C00;">ICET Institute</strong> and am looking forward to university.</li>
+      <li>👨‍💻 <span style="color: #8A2BE2;">See my other details in my</span> 
+        <a href="http://portfolio20041119.s3-website.eu-north-1.amazonaws.com" target="_blank" style="color: #FFD700; text-decoration: none;">Portfolio</a>.
+      </li>
+      <li>💬 <span style="color: #FF6347;">Ask me about</span> <strong style="color: #00FA9A;">Java, JavaScript, Angular, and Spring Boot</strong>.</li>
+      <li>📫 <span style="color: #FF69B4;">Reach me at</span> <strong style="color: #20B2AA;">Chathupachamika765@gmail.com</strong>.</li>
     </ul>
   </div>
-  <div style="flex: 1;">
-    <div align="right">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
-    </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   </div>
 </div>
 
