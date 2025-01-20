@@ -31,7 +31,7 @@
       <li>📫 <span style="color: #FF69B4;">Reach me at</span> <strong style="color: #20B2AA;">Chathupachamika765@gmail.com</strong>.</li>
     </ul>
   </div>
-  <div style=" margin-left: 40px;">
+  <div style=" margin-left: -40px;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   </div>
 </div>
@@ -111,10 +111,6 @@
 <img src="https://img.icons8.com/fluency/50/000000/android-studio--v3.png" alt="Android Studio" />
 <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" />
 
-### **Designing Tools**
-<img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png" alt="Photoshop" />
-<img src="https://img.icons8.com/color/50/000000/adobe-after-effects--v1.png" alt="After Effects" />
-<img src="https://img.icons8.com/color/50/000000/adobe-premiere-pro--v1.png" alt="Premiere Pro" />
 
 </div>
 
