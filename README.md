@@ -25,16 +25,16 @@
 <tr>
 <td width="60%">
 
-### 🎯 Quick Facts
+## 🎯 Quick Facts
 - ⚡ Currently learning **MERN Stack**
 - 🌱 Recent graduate from **ICET Institute**, university-bound
 - 👨‍💻 Check out my [Portfolio](http://portfolio20041119.s3-website.eu-north-1.amazonaws.com)
 - 💬 Ask me about **Java, JavaScript, Angular & Spring Boot**
 - 📫 Reach me at **Chathupachamika765@gmail.com**
 
-# 🔭 Current Focus
+## 🔭 Current Focus
 
-## 🎯 Full Stack Development with PHP
+### 🎯 Full Stack Development with PHP
 
 - Exploring scalable solutions for modern web applications with PHP-based architectures
 
