@@ -165,10 +165,8 @@
 <table>
   <tr>
     <td width="60%">
-      <th>### 🔝 Top Contributed Repo</th>
-      <th>
-        <img src="https://github-contributor-stats.vercel.app/api?username=Chathupachamika&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
-      </th>
+      <h2>🔝 Top Contributed Repo</h2>
+      <img src="https://github-contributor-stats.vercel.app/api?username=Chathupachamika&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
     </td>
     <td width="40%">
       <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e4768ikb3p9h7tybnx5qe6dbf5mo7rbbzdthrtoxeo3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Goodbye Animation">
