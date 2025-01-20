@@ -32,14 +32,13 @@
 - 💬 Ask me about **Java, JavaScript, Angular & Spring Boot**
 - 📫 Reach me at **Chathupachamika765@gmail.com**
 
-### 🎨 My Tech Journey
-```javascript
-const journey = {
-  currentFocus: "Full Stack Development",
-  technologies: ["MERN", "Java", "Angular"],
-  goals: "Building scalable web applications"
-};
-```
+# 🔭 Current Focus
+
+## 🎯 Full Stack Development with PHP
+
+- Exploring scalable solutions for modern web applications with PHP-based architectures
+
+- Implementing robust backend services using PHP design patterns and best practices
 
 </td>
 <td width="40%">
