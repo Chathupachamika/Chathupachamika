@@ -31,7 +31,7 @@
       <li>📫 <span style="color: #FF69B4;">Reach me at</span> <strong style="color: #20B2AA;">Chathupachamika765@gmail.com</strong>.</li>
     </ul>
   </div>
-  <div style="flex: 1; text-align: center;">
+  <div style="block: 1;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   </div>
 </div>
