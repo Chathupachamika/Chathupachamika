@@ -162,14 +162,17 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Chathupachamika&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
-</div>
-
-<div align="right">
-  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e4768ikb3p9h7tybnx5qe6dbf5mo7rbbzdthrtoxeo3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Goodbye Animation">
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      ### 🔝 Top Contributed Repo
+      <img src="https://github-contributor-stats.vercel.app/api?username=Chathupachamika&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e4768ikb3p9h7tybnx5qe6dbf5mo7rbbzdthrtoxeo3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Goodbye Animation">
+    </td>
+  </tr>
+</table>
 
 ---
 
