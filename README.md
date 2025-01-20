@@ -103,18 +103,18 @@
   <img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" />
   <img src="https://img.icons8.com/color/50/000000/express.png" alt="Express" />
   <img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter" />
-  <img src="https://img.icons8.com/nolan/64/electron.png" alt="Electron" />
-  <img src="https://img.icons8.com/color/50/000000/laravel.png" alt="Laravel" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/physics.png" alt="physics"/>
+  <img width="64" height="64" src="https://img.icons8.com/arcade/64/laravel.png" alt="laravel"/>
   <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" />
   <img src="https://img.icons8.com/fluency/50/000000/nextjs.png" alt="Next.js" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-nestjs-a-progressive-nodejs-framework-for-building-efficient-and-scalable-server-side-applications-logo-shadow-tal-revivo.png" alt="Nest.js" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
 </div>
 
 ### **Databases**
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://icons8.com/icon/38561/postgresql" alt="PostgreSQL" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 </div>
 
 ### **Cloud Computing**
