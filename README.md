@@ -101,7 +101,7 @@
   <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" />
   <img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/50/000000/express.png" alt="Express" />
+  <img width="30" height="30" src="https://img.icons8.com/offices/30/express-js.png" alt="express-js"/>
   <img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter" />
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/physics.png" alt="physics"/>
   <img width="64" height="64" src="https://img.icons8.com/arcade/64/laravel.png" alt="laravel"/>
@@ -112,7 +112,7 @@
 
 ### **Databases**
 <div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
   <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 </div>
