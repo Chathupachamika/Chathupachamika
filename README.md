@@ -16,25 +16,45 @@
 
 <div align="center">
   <hr style="border: 2px solid #36BCF7; width: 50%;">
-  <h2 style="color: #FFA500; font-size: 28px;">🛠 About Me:</h2>
+ 
 </div>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 20px;">
-  <div style="flex: 1; padding: 10px;">
-    <ul style="font-size: 18px; line-height: 1.8; list-style: none; padding: 0;">
-      <li>⚡ <span style="color: #FF4500;">I’m currently learning</span> <strong style="color: #1E90FF;">MERN Stack</strong>.</li>
-      <li>🌱 <span style="color: #2E8B57;">I have just finished studying at</span> <strong style="color: #FF8C00;">ICET Institute</strong> and am looking forward to university.</li>
-      <li>👨‍💻 <span style="color: #8A2BE2;">See my other details in my</span> 
-        <a href="http://portfolio20041119.s3-website.eu-north-1.amazonaws.com" target="_blank" style="color: #FFD700; text-decoration: none;">Portfolio</a>.
-      </li>
-      <li>💬 <span style="color: #FF6347;">Ask me about</span> <strong style="color: #00FA9A;">Java, JavaScript, Angular, and Spring Boot</strong>.</li>
-      <li>📫 <span style="color: #FF69B4;">Reach me at</span> <strong style="color: #20B2AA;">Chathupachamika765@gmail.com</strong>.</li>
-    </ul>
-  </div>
-  <div style=" margin-left: -40px;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  </div>
+<h2 align="center">👨‍💻 About Me </h2>
+
+<table>
+<tr>
+<td width="60%">
+
+### 🎯 Quick Facts
+- ⚡ Currently learning **MERN Stack**
+- 🌱 Recent graduate from **ICET Institute**, university-bound
+- 👨‍💻 Check out my [Portfolio](http://portfolio20041119.s3-website.eu-north-1.amazonaws.com)
+- 💬 Ask me about **Java, JavaScript, Angular & Spring Boot**
+- 📫 Reach me at **Chathupachamika765@gmail.com**
+
+### 🎨 My Tech Journey
+```javascript
+const journey = {
+  currentFocus: "Full Stack Development",
+  technologies: ["MERN", "Java", "Angular"],
+  goals: "Building scalable web applications"
+};
+```
+
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://portfolio20041119.s3-website.eu-north-1.amazonaws.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Chathupachamika765@gmail.com)
+
 </div>
+
+</td>
+</tr>
+</table>
 
 
 ---
