@@ -120,7 +120,6 @@
 
 ### **Cloud Computing**
 <img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" />
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo.png" alt="FireBase" />
 
 ### **Version Control**
 <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" />
