@@ -28,7 +28,7 @@
 ## 🎯 Quick Facts
 - ⚡ Currently learning **MERN Stack**
 - 🌱 Recent graduate from **ICET Institute**, university-bound
-- 👨‍💻 Check out my [Portfolio](http://portfolio20041119.s3-website.eu-north-1.amazonaws.com)
+- 👨‍💻 Check out my [Portfolio](http://portfolio20041119.s3-website.eu-north-1.amazonaws.com/)
 - 💬 Ask me about **Java, JavaScript, Angular & Spring Boot**
 - 📫 Reach me at **Chathupachamika765@gmail.com**
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://portfolio20041119.s3-website.eu-north-1.amazonaws.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://portfolio20041119.s3-website.eu-north-1.amazonaws.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Chathupachamika765@gmail.com)
 
 </div>
