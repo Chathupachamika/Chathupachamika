@@ -57,6 +57,7 @@
 
 
 ---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chathupachamika&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -80,6 +81,7 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
   </a>
 </div>
+
 ---
 
 ## 🛠️ Languages and Tools
