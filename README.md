@@ -63,6 +63,15 @@
 
 ---
 
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathupachamika&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chathupachamika&theme=merko&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathupachamika&theme=synthwave&hide_border=false" />
+</div>
+
+---
+
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://twitter.com/chathupachamika" target="_blank">
@@ -149,13 +158,6 @@
 <p align="center" style="font-size: 16px; font-weight: bold;">Your support inspires me to create more awesome projects! 💖</p>
 
 ---
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathupachamika&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Chathupachamika&theme=merko&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathupachamika&theme=synthwave&hide_border=false" />
-</div>
-
 
 ### ✍️ Random Dev Quote
 <div align="left">
