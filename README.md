@@ -6,9 +6,10 @@
 </h1>
 
 
-<h3 align="center"><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Freelancer+👨‍💻;Passionate+about+Coding+🚀;Always+Learning+🌱" alt="Typing SVG">
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=600&lines=Freelancer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Passionate+about+Coding+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chathupachamika&label=Profile%20Views&color=ff1493&style=for-the-badge" alt="Profile Views" />
