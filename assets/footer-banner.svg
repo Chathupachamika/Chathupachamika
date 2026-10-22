@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="t">
+  <title id="t">Building ideas into software</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B0F19"/><stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3B82F6"/><stop offset="0.5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" rx="18" fill="url(#bg)"/>
+  <path d="M0 140 C200 100 400 160 600 120 S1000 100 1200 130" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.7"/>
+  <path d="M0 155 C250 125 450 170 650 140 S1000 125 1200 150" fill="none" stroke="#3B82F6" stroke-opacity="0.25"/>
+  <g fill="#22D3EE">
+    <circle cx="200" cy="112" r="4"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="120" r="4" fill="#3B82F6"><animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="104" r="4" fill="#8B5CF6"><animate attributeName="opacity" values="1;0.2;1" dur="3.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="600" y="62" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#F3F4F6">&gt; Building ideas into software</text>
+  <rect x="868" y="44" width="10" height="22" fill="#22D3EE"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+  <text x="600" y="92" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#9CA3AF">Thanks for visiting · Chathupa Chamika</text>
+</svg>
