@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+  <title id="t">Developer workspace</title>
+  <desc id="d">A decorative static code editor window with a JavaScript snippet and a blinking cursor.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="18" fill="#0B0F19"/>
+  <rect x="1" y="1" width="1198" height="418" rx="17" fill="none" stroke="#3B82F6" stroke-opacity="0.35"/>
+
+  <!-- editor window -->
+  <rect x="60" y="40" width="720" height="340" rx="12" fill="#111827" stroke="#182235"/>
+  <rect x="60" y="40" width="720" height="40" rx="12" fill="#182235"/>
+  <rect x="60" y="68" width="720" height="12" fill="#182235"/>
+  <circle cx="86" cy="60" r="6" fill="#F87171"/><circle cx="108" cy="60" r="6" fill="#FBBF24"/><circle cx="130" cy="60" r="6" fill="#34D399"/>
+  <text x="170" y="65" font-family="Consolas, monospace" font-size="14" fill="#9CA3AF">developer.js</text>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="17">
+    <g fill="#4B5563" text-anchor="end">
+      <text x="110" y="115">1</text><text x="110" y="143">2</text><text x="110" y="171">3</text>
+      <text x="110" y="199">4</text><text x="110" y="227">5</text><text x="110" y="255">6</text>
+      <text x="110" y="283">7</text><text x="110" y="311">8</text><text x="110" y="339">9</text>
+    </g>
+    <text x="130" y="115" fill="#6B7280">// learning in public</text>
+    <text x="130" y="143"><tspan fill="#8B5CF6">const</tspan><tspan fill="#F3F4F6"> developer = {</tspan></text>
+    <text x="154" y="171"><tspan fill="#22D3EE">name</tspan><tspan fill="#F3F4F6">: </tspan><tspan fill="#34D399">"Chathupa Chamika"</tspan><tspan fill="#F3F4F6">,</tspan></text>
+    <text x="154" y="199"><tspan fill="#22D3EE">learning</tspan><tspan fill="#F3F4F6">: [</tspan><tspan fill="#34D399">"MERN"</tspan><tspan fill="#F3F4F6">, </tspan><tspan fill="#34D399">"PHP"</tspan><tspan fill="#F3F4F6">],</tspan></text>
+    <text x="154" y="227"><tspan fill="#22D3EE">focus</tspan><tspan fill="#F3F4F6">: </tspan><tspan fill="#34D399">"full-stack development"</tspan><tspan fill="#F3F4F6">,</tspan></text>
+    <text x="130" y="255" fill="#F3F4F6">};</text>
+    <text x="130" y="311"><tspan fill="#8B5CF6">developer</tspan><tspan fill="#F3F4F6">.</tspan><tspan fill="#3B82F6">build</tspan><tspan fill="#F3F4F6">();</tspan></text>
+    <rect x="130" y="325" width="10" height="18" fill="#22D3EE">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- workflow nodes -->
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#F3F4F6" text-anchor="middle">
+    <path d="M900 90 V170 M900 210 V290" stroke="#3B82F6" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="5 7" fill="none">
+      <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <rect x="820" y="50" width="160" height="40" rx="10" fill="#182235" stroke="#3B82F6"/>
+    <text x="900" y="75">Idea</text>
+    <rect x="820" y="170" width="160" height="40" rx="10" fill="#182235" stroke="#22D3EE"/>
+    <text x="900" y="195">Frontend + Backend</text>
+    <rect x="820" y="290" width="160" height="40" rx="10" fill="#182235" stroke="#8B5CF6"/>
+    <text x="900" y="315">Deploy</text>
+    <circle cx="900" cy="130" r="4" fill="#22D3EE"/><circle cx="900" cy="250" r="4" fill="#8B5CF6"/>
+  </g>
+  <text x="1060" y="200" font-family="Consolas, monospace" font-size="13" fill="#9CA3AF" transform="rotate(90 1060 200)">decorative · not a live terminal</text>
+</svg>

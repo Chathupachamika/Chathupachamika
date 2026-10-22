@@ -76,104 +76,39 @@ I'm a developer who enjoys turning ideas into working web applications. I'm grow
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 ## 🧰 Tech Stack
 
-<details open>
-<summary><b>&gt;_ languages</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,dart,php&theme=dark" alt="Java, JavaScript, TypeScript, Dart, PHP"/>
-</p>
-</details>
+<p align="center"><sub>Tools I’ve worked with, grouped by where they fit in the build.</sub></p>
 
-<details open>
-<summary><b>&gt;_ frontend</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" alt="HTML, CSS, Bootstrap"/>
-</p>
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>⌘ Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=java,js,ts,php,dart&theme=dark" alt="Java, JavaScript, TypeScript, PHP, Dart"/></td>
+    <td width="50%" valign="top"><b>◈ Web &amp; mobile</b><br/><br/><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nextjs,flutter&theme=dark" alt="HTML, CSS, Bootstrap, React, Angular, Next.js, Flutter"/></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>⬡ Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring&theme=dark" alt="Node.js, Express, NestJS, Laravel, Spring Boot"/></td>
+    <td width="50%" valign="top"><b>▤ Data</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="MySQL, MongoDB, PostgreSQL"/></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>☁ Cloud &amp; collaboration</b><br/><br/><img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark" alt="AWS, Git, GitHub"/></td>
+    <td width="50%" valign="top"><b>⌁ Everyday tools</b><br/><br/><img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman&theme=dark" alt="VS Code, IntelliJ IDEA, Android Studio, Postman"/></td>
+  </tr>
+</table>
 
-<details open>
-<summary><b>&gt;_ backend</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&gt;_ frameworks &amp; libraries</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,express,nestjs,laravel,spring,flutter&theme=dark" alt="React, Angular, Next.js, Express.js, NestJS, Laravel, Spring Boot, Flutter"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&gt;_ databases</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="MySQL, MongoDB, PostgreSQL"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&gt;_ cloud &amp; deployment</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&gt;_ dev tools</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman&theme=dark" alt="IntelliJ IDEA, Visual Studio Code, Android Studio, Postman"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&gt;_ version control</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub"/>
-</p>
-</details>
+<p align="center"><b>Exploring next</b><br/>TypeScript patterns · Docker &amp; CI/CD · AI-powered web apps · cloud deployment</p>
 
 <img src="./assets/section-divider.svg" alt="" width="100%"/>
 
-<!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
-## 🚀 Featured Projects
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## 🚀 Projects &amp; Experiments
 
-> **Setup:** replace `REPO_NAME_1`, `REPO_NAME_2`, `REPO_NAME_3` below with the names of your real repositories (and delete this note). Cards stay empty until you do.
-
-<div align="center">
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Chathupachamika/REPO_NAME_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chathupachamika&repo=REPO_NAME_1&theme=transparent&title_color=22D3EE&text_color=9CA3AF&icon_color=3B82F6&border_color=182235&bg_color=0F172A" alt="Featured project 1 repository card"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Chathupachamika/REPO_NAME_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chathupachamika&repo=REPO_NAME_2&theme=transparent&title_color=22D3EE&text_color=9CA3AF&icon_color=3B82F6&border_color=182235&bg_color=0F172A" alt="Featured project 2 repository card"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/Chathupachamika/REPO_NAME_3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chathupachamika&repo=REPO_NAME_3&theme=transparent&title_color=22D3EE&text_color=9CA3AF&icon_color=3B82F6&border_color=182235&bg_color=0F172A" alt="Featured project 3 repository card"/>
-      </a>
-    </td>
+    <td width="33%" valign="top"><b>01 / Explore</b><br/><br/>Browse my repositories to see what I’m building and learning.<br/><br/><a href="https://github.com/Chathupachamika?tab=repositories">↗ Open all repositories</a></td>
+    <td width="33%" valign="top"><b>02 / See it live</b><br/><br/>Visit my portfolio for a snapshot of my work and developer journey.<br/><br/><a href="http://portfolio20041119.s3-website.eu-north-1.amazonaws.com/">↗ Visit portfolio</a></td>
+    <td width="33%" valign="top"><b>03 / Build together</b><br/><br/>Have an interesting idea or project? I’d love to hear about it.<br/><br/><a href="mailto:Chathupachamika765@gmail.com">↗ Start a conversation</a></td>
   </tr>
 </table>
-</div>
 
-<p align="center">
-  <a href="https://github.com/Chathupachamika?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-→-3B82F6?style=for-the-badge&labelColor=0F172A" alt="Browse all repositories"/></a>
-</p>
+<p align="center"><sub>New projects will appear here as I publish them — no empty showcase cards.</sub></p>
 
 <img src="./assets/section-divider.svg" alt="" width="100%"/>
 
