@@ -1,9 +1,10 @@
-# Setup (delete this file after publishing)
+# Setup (delete after publishing)
 
-1. Repo must be named exactly `Chathupachamika/Chathupachamika` (public, with a README).
-2. Copy `README.md`, `assets/`, and `.github/` into the repo root; commit to the default branch.
-3. Add links to your favorite repositories in the Projects section as you publish them.
-4. Settings → Actions → General → Workflow permissions → **Read and write permissions**.
-5. Actions tab → "Generate Contribution Snake" → **Run workflow**. When it finishes, an `output` branch holds the SVGs and the snake appears in the README.
-6. If your default branch is `master`, change `main` in the workflow's push trigger.
-7. Check the profile on desktop and phone; any widget that shows broken is third-party (stats/streak/activity are most often rate-limited) — remove or retry later.
+1. Repo must be `Chathupachamika/Chathupachamika` (public).
+2. Copy README.md, assets/, scripts/, .github/ to the repo root; delete the old assets/section-divider.svg; commit to the default branch.
+3. Edit assets/project-card-1..3.svg with real project info (or remove the Featured Projects block).
+4. Settings → Actions → General → Workflow permissions → Read and write.
+5. Actions → "Generate Contribution Snake" → Run workflow. When green, branch `output` holds the SVGs.
+6. Local check: `python3 scripts/check-readme.py`. "README checks" workflow runs it on push/PR.
+7. Preview on github.com (desktop + phone, light and dark theme). Broken widgets = third-party; retry later or remove.
+Troubleshooting: snake missing → check Actions log and permissions; animations frozen → some viewers show SVGs static, which is fine; stats cards blank → rate limit.

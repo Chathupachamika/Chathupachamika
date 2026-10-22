@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" role="presentation" aria-hidden="true">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#3B82F6" stop-opacity="0"/><stop offset=".25" stop-color="#3B82F6"/><stop offset=".5" stop-color="#22D3EE"/><stop offset=".75" stop-color="#8B5CF6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient></defs>
+  <path d="M60 20H480L500 8H560M1140 20H720L700 32H640" fill="none" stroke="url(#g)" stroke-width="1.5"/>
+  <path d="M580 20L600 6L620 20L600 34Z" fill="#0B0F19" stroke="#22D3EE" stroke-width="2"><animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></path>
+  <circle cx="500" cy="8" r="3" fill="#3B82F6"/><circle cx="700" cy="32" r="3" fill="#8B5CF6"/><circle cx="600" cy="20" r="2.5" fill="#22D3EE"/>
+</svg>

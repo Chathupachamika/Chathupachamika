@@ -1,0 +1,25 @@
+name: README checks
+
+on:
+  pull_request:
+  push:
+    paths: ["README.md", "assets/**", "scripts/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # Local-only checks: assets, SVG validity, alt text, required URLs.
+      # Placeholder warnings do not fail the job; errors do.
+      - run: python3 scripts/check-readme.py
+      # External image URLs are NOT checked here: third-party services rate-limit
+      # or block CI runners, so a failure would not prove a URL is broken.

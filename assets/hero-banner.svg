@@ -1,80 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
-  <title id="t">Chathupa Chamika — Developer</title>
-  <desc id="d">Dark futuristic banner with a grid, connected glowing nodes and a terminal prompt.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+  <title id="t">Chathupa Chamika — Full Stack Developer</title>
+  <desc id="d">Dark cinematic banner: perspective grid, glowing network nodes, an isometric monitor with a code panel, and the name Chathupa Chamika.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B0F19"/><stop offset="0.55" stop-color="#0F172A"/><stop offset="1" stop-color="#182235"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#3B82F6"/><stop offset="0.5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#3B82F6" stroke-opacity="0.12" stroke-width="1"/>
-    </pattern>
-    <radialGradient id="glow" cx="0.8" cy="0.3" r="0.6">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow2" cx="0.1" cy="0.9" r="0.5">
-      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.2"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0F19"/><stop offset=".6" stop-color="#0F172A"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#182235"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".35"/></linearGradient>
+    <radialGradient id="g1" cx=".78" cy=".45" r=".5"><stop offset="0" stop-color="#22D3EE" stop-opacity=".25"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx=".05" cy="1" r=".6"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".25"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="clip"><rect width="1200" height="400" rx="20"/></clipPath>
   </defs>
-  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#glow2)"/>
-  <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="url(#accent)" stroke-opacity="0.45"/>
-
-  <!-- circuit lines -->
-  <g fill="none" stroke="#22D3EE" stroke-opacity="0.5" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="6 10">
-    <path d="M700 60 H820 L860 100 H980 L1020 60 H1160">
-      <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="6s" repeatCount="indefinite"/>
-    </path>
-    <path d="M740 260 H880 L920 220 H1040 L1080 260 H1180">
-      <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="8s" repeatCount="indefinite"/>
-    </path>
-    <path d="M820 100 V180 L860 220">
-      <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="7s" repeatCount="indefinite"/>
-    </path>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="400" fill="url(#bg)"/>
+    <rect width="1200" height="400" fill="url(#g1)"/>
+    <rect width="1200" height="400" fill="url(#g2)"/>
+    <!-- perspective grid horizon -->
+    <g stroke="#3B82F6" stroke-opacity=".22" fill="none">
+      <path d="M0 300H1200M0 322H1200M0 350H1200M0 385H1200"/>
+      <path d="M600 260L-200 400M600 260L0 400M600 260L200 400M600 260L400 400M600 260L600 400M600 260L800 400M600 260L1000 400M600 260L1200 400M600 260L1400 400"/>
+    </g>
+    <rect y="260" width="1200" height="140" fill="url(#fade)" opacity=".5"/>
+    <!-- data-flow lines -->
+    <g fill="none" stroke="#22D3EE" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 12" stroke-opacity=".7">
+      <path d="M560 70H700L740 110H860"><animate attributeName="stroke-dashoffset" from="0" to="-160" dur="7s" repeatCount="indefinite"/></path>
+      <path d="M1180 60H1060L1020 100"><animate attributeName="stroke-dashoffset" from="0" to="-160" dur="9s" repeatCount="indefinite"/></path>
+      <path d="M640 330H760L800 290H900"><animate attributeName="stroke-dashoffset" from="0" to="-160" dur="8s" repeatCount="indefinite"/></path>
+      <path d="M1100 330H1180"><animate attributeName="stroke-dashoffset" from="0" to="-160" dur="6s" repeatCount="indefinite"/></path>
+    </g>
+    <!-- nodes -->
+    <g filter="url(#glow)">
+      <circle cx="740" cy="110" r="5" fill="#22D3EE"><animate attributeName="opacity" values="1;.3;1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="1020" cy="100" r="5" fill="#3B82F6"><animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="800" cy="290" r="5" fill="#8B5CF6"><animate attributeName="opacity" values="1;.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="70" r="4" fill="#3B82F6"/>
+    </g>
+    <!-- isometric monitor -->
+    <g transform="translate(880 150)">
+      <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="6s" repeatCount="indefinite"/>
+        <path d="M0 40L120 0L240 40V150L120 190L0 150Z" fill="#0B0F19" stroke="#22D3EE" stroke-opacity=".5"/>
+        <path d="M14 48L120 12L226 48V140L120 176L14 140Z" fill="url(#screen)" stroke="#3B82F6" stroke-opacity=".6"/>
+        <g font-family="Consolas,'Courier New',monospace" font-size="11">
+          <text x="38" y="68" fill="#8B5CF6" transform="skewY(-14)">const</text>
+          <text x="84" y="68" fill="#22D3EE" transform="skewY(-14)">app</text>
+          <text x="38" y="86" fill="#34D399" transform="skewY(-14)">"mern"</text>
+          <text x="38" y="104" fill="#9CA3AF" transform="skewY(-14)">// php</text>
+        </g>
+        <path d="M100 190V215H140V190" fill="#182235" stroke="#273449"/>
+        <path d="M70 224L120 208L170 224L120 240Z" fill="#182235" stroke="#273449"/>
+      </g>
+    </g>
+    <!-- floating geometry -->
+    <g fill="none" stroke-width="1.5">
+      <rect x="660" y="190" width="34" height="34" rx="4" stroke="#8B5CF6" stroke-opacity=".7" transform="rotate(20 677 207)">
+        <animateTransform attributeName="transform" type="rotate" from="20 677 207" to="380 677 207" dur="30s" repeatCount="indefinite"/></rect>
+      <path d="M1130 220l22 38h-44z" stroke="#22D3EE" stroke-opacity=".7"><animateTransform attributeName="transform" type="translate" values="0 0;0 10;0 0" dur="7s" repeatCount="indefinite"/></path>
+      <circle cx="620" cy="130" r="14" stroke="#3B82F6" stroke-opacity=".7"><animate attributeName="r" values="14;18;14" dur="5s" repeatCount="indefinite"/></circle>
+    </g>
+    <g font-family="Consolas,monospace" font-size="24" fill-opacity=".5">
+      <text x="1120" y="160" fill="#8B5CF6">&lt;/&gt;<animate attributeName="y" values="160;148;160" dur="6s" repeatCount="indefinite"/></text>
+      <text x="570" y="250" fill="#22D3EE">{ }<animate attributeName="y" values="250;262;250" dur="7s" repeatCount="indefinite"/></text>
+    </g>
+    <!-- text -->
+    <rect x="60" y="64" width="190" height="30" rx="15" fill="#182235" stroke="#273449"/>
+    <circle cx="80" cy="79" r="4" fill="#22D3EE"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="94" y="84" font-family="Consolas,monospace" font-size="14" fill="#9CA3AF">ICET Institute graduate</text>
+    <text x="60" y="170" font-family="'Segoe UI',Arial,sans-serif" font-size="62" font-weight="700" fill="#F3F4F6">Chathupa</text>
+    <text x="60" y="235" font-family="'Segoe UI',Arial,sans-serif" font-size="62" font-weight="700" fill="url(#ac)">Chamika</text>
+    <text x="60" y="280" font-family="'Segoe UI',Arial,sans-serif" font-size="22" fill="#9CA3AF">Full Stack Developer · MERN &amp; PHP</text>
+    <text x="60" y="322" font-family="Consolas,monospace" font-size="17" fill="#22D3EE">&gt; Building ideas into software</text>
+    <rect x="372" y="308" width="10" height="18" fill="#22D3EE"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
   </g>
-
-  <!-- nodes -->
-  <g>
-    <circle cx="860" cy="100" r="5" fill="#22D3EE"><animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/></circle>
-    <circle cx="1020" cy="60" r="5" fill="#3B82F6"><animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/></circle>
-    <circle cx="920" cy="220" r="5" fill="#8B5CF6"><animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
-    <circle cx="1080" cy="260" r="5" fill="#22D3EE"><animate attributeName="opacity" values="0.4;1;0.4" dur="5s" repeatCount="indefinite"/></circle>
-    <circle cx="820" cy="100" r="4" fill="#3B82F6"/>
-  </g>
-
-  <!-- orbital -->
-  <g transform="translate(1010 160)" fill="none">
-    <circle r="62" stroke="#3B82F6" stroke-opacity="0.35" stroke-dasharray="3 7"/>
-    <circle r="38" stroke="#8B5CF6" stroke-opacity="0.45"/>
-    <circle r="6" fill="#22D3EE"/>
-    <g><circle cx="62" cy="0" r="4" fill="#3B82F6"/>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/></g>
-    <g><circle cx="-38" cy="0" r="3.5" fill="#8B5CF6"/>
-      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/></g>
-  </g>
-
-  <!-- floating code symbols -->
-  <g font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#3B82F6" fill-opacity="0.45">
-    <text x="640" y="150">&lt;/&gt;
-      <animate attributeName="y" values="150;140;150" dur="6s" repeatCount="indefinite"/></text>
-    <text x="760" y="170" fill="#22D3EE">{ }
-      <animate attributeName="y" values="170;180;170" dur="7s" repeatCount="indefinite"/></text>
-    <text x="1130" y="130" fill="#8B5CF6">;
-      <animate attributeName="y" values="130;120;130" dur="5s" repeatCount="indefinite"/></text>
-  </g>
-
-  <!-- text -->
-  <g font-family="Consolas, 'Courier New', monospace">
-    <text x="60" y="90" font-size="18" fill="#9CA3AF">$ whoami</text>
-    <text x="60" y="160" font-size="56" font-weight="700" fill="#F3F4F6" font-family="'Segoe UI', Arial, sans-serif">Chathupa Chamika</text>
-    <text x="60" y="205" font-size="22" fill="url(#accent)" font-family="'Segoe UI', Arial, sans-serif">Full Stack Developer · MERN &amp; PHP</text>
-    <text x="60" y="260" font-size="16" fill="#9CA3AF">&gt; Building ideas into software</text>
-    <rect x="378" y="246" width="10" height="18" fill="#22D3EE">
-      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
-    </rect>
-  </g>
+  <rect x="1" y="1" width="1198" height="398" rx="19" fill="none" stroke="url(#ac)" stroke-opacity=".5"/>
 </svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="t">
+  <title id="t">Building ideas into software</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8FAFC"/><stop offset="1" stop-color="#EEF2F7"/></linearGradient>
+    <linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#3B82F6"/><stop offset=".5" stop-color="#0891B2"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <radialGradient id="sun" cx=".5" cy="1" r=".6"><stop offset="0" stop-color="#0891B2" stop-opacity=".3"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="220" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="220" rx="20" fill="url(#sun)"/>
+  <g stroke="#3B82F6" stroke-opacity=".2" fill="none"><path d="M0 170H1200M0 190H1200M0 210H1200"/><path d="M600 150L100 220M600 150L300 220M600 150L500 220M600 150L700 220M600 150L900 220M600 150L1100 220"/></g>
+  <path d="M0 150C200 110 400 165 600 130S1000 110 1200 140" fill="none" stroke="url(#ac)" stroke-width="2"/>
+  <g filter="url(#glow)">
+    <circle cx="200" cy="124" r="4" fill="#0891B2"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="130" r="4" fill="#3B82F6"><animate attributeName="opacity" values=".2;1;.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="116" r="4" fill="#8B5CF6"><animate attributeName="opacity" values="1;.2;1" dur="3.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <g font-family="Consolas,'Courier New',monospace" fill="#3B82F6" fill-opacity=".4" font-size="26"><text x="90" y="70">&lt;/&gt;</text><text x="1060" y="70">{ }</text></g>
+  <text x="600" y="72" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="26" fill="#0F172A">&gt; Building ideas into software</text>
+  <rect x="898" y="52" width="11" height="24" fill="#0891B2"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+  <text x="600" y="102" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#475569">Chathupa Chamika · Thanks for visiting</text>
+</svg>

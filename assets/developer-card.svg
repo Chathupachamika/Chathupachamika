@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">Developer identity card</title>
+<desc id="d">Terminal-style card: Chathupa Chamika, ICET Institute graduate, learning the MERN stack, focus on full-stack development and PHP, familiar with Java, JavaScript, Angular and Spring Boot.</desc>
+<defs><linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#3B82F6"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+<rect width="1200" height="300" rx="18" fill="#111827"/><rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="url(#ac)" stroke-opacity=".6"/>
+<path d="M0 18A18 18 0 0 1 18 0H1182A18 18 0 0 1 1200 18V44H0Z" fill="#182235"/>
+<circle cx="28" cy="22" r="6" fill="#F87171"/><circle cx="50" cy="22" r="6" fill="#FBBF24"/><circle cx="72" cy="22" r="6" fill="#34D399"/>
+<text x="100" y="27" font-family="Consolas,monospace" font-size="14" fill="#9CA3AF">~/chathupa — profile.sh</text>
+<g font-family="Consolas,'Courier New',monospace" font-size="20">
+<text x="40" y="90"><tspan fill="#22D3EE">$</tspan><tspan fill="#F3F4F6"> cat about.md</tspan></text>
+<text x="40" y="132"><tspan fill="#3B82F6">name        </tspan><tspan fill="#F3F4F6">Chathupa Chamika</tspan></text>
+<text x="40" y="164"><tspan fill="#3B82F6">education   </tspan><tspan fill="#F3F4F6">ICET Institute (recent graduate)</tspan></text>
+<text x="40" y="196"><tspan fill="#3B82F6">learning    </tspan><tspan fill="#F3F4F6">MERN stack</tspan></text>
+<text x="40" y="228"><tspan fill="#3B82F6">focus       </tspan><tspan fill="#F3F4F6">Full-stack development · PHP</tspan></text>
+<text x="40" y="260"><tspan fill="#3B82F6">familiar    </tspan><tspan fill="#F3F4F6">Java · JavaScript · Angular · Spring Boot</tspan></text>
+</g>
+<rect x="1010" y="240" width="11" height="22" fill="#22D3EE"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>

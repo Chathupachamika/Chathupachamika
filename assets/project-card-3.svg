@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 260" role="img" aria-labelledby="t">
+<title id="t">Project slot 3 — replace with a real project</title>
+<rect width="560" height="260" rx="16" fill="#111827"/><rect x="1" y="1" width="558" height="258" rx="15" fill="none" stroke="#273449"/>
+<rect x="0" y="0" width="6" height="260" rx="3" fill="#8B5CF6"/>
+<rect x="28" y="24" width="150" height="26" rx="13" fill="#182235" stroke="#8B5CF6" stroke-opacity=".7"/>
+<text x="103" y="42" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#8B5CF6">CATEGORY · EDIT ME</text>
+<text x="28" y="94" font-family="'Segoe UI',Arial,sans-serif" font-size="26" font-weight="700" fill="#F3F4F6">Project name 3</text>
+<text x="28" y="126" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#9CA3AF">Replace with a one-line description of</text>
+<text x="28" y="150" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#9CA3AF">what this project does and who it is for.</text>
+<g font-family="Consolas,monospace" font-size="13" fill="#F3F4F6">
+<rect x="28" y="178" width="78" height="26" rx="13" fill="#182235"/><text x="67" y="196" text-anchor="middle">Tech A</text>
+<rect x="116" y="178" width="78" height="26" rx="13" fill="#182235"/><text x="155" y="196" text-anchor="middle">Tech B</text>
+<rect x="204" y="178" width="78" height="26" rx="13" fill="#182235"/><text x="243" y="196" text-anchor="middle">Tech C</text></g>
+<text x="28" y="238" font-family="Consolas,monospace" font-size="13" fill="#8B5CF6">repo → add link in README  ·  demo → optional</text>
+</svg>
